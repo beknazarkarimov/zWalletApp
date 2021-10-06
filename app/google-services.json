@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "222150744474",
+    "project_id": "zwallet-app",
+    "storage_bucket": "zwallet-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222150744474:android:a92e13330769436d454223",
+        "android_client_info": {
+          "package_name": "com.example.zwalletapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222150744474-dv292aika96oeoo0agos3j5ttlesve8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zwalletapp",
+            "certificate_hash": "3a9457e78dd299e88e97fe2924fb597348023785"
+          }
+        },
+        {
+          "client_id": "222150744474-ag7jjatoj27f6n2u9jp13cdi6s7npjvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALQfoKClr4rnudyyH24-zcoY80RyajB38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222150744474-ag7jjatoj27f6n2u9jp13cdi6s7npjvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
